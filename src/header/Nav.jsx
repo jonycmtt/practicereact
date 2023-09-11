@@ -39,7 +39,7 @@ function Nav() {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">Card</a>
+                <a className="btn">show Card</a>
             </div>
             </div>
     </>
