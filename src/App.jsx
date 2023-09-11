@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <h2>Hello Everyone</h2>
+    <h2 className='text-4xl'>Hello Everyone Jony</h2>
     <Header/>
      <Card/>
      
