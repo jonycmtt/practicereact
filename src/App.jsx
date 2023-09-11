@@ -6,6 +6,7 @@ function App() {
 
   return (
     <>
+    <h2>Hello Everyone</h2>
     <Header/>
      <Card/>
      
